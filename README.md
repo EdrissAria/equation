@@ -1,4 +1,4 @@
 # equation solving 
 solving equation with js 
 # live demo 
-https://edriss563.github.io/equation/ 
+https://EdrissAria.github.io/equation/ 
